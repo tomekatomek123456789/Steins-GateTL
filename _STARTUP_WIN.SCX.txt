@@ -1,0 +1,109 @@
+All unsaved game progress will be lost.
+Exit Game?
+OK
+Cancel
+セーブデータの確認中です。
+セーブデータの読み込みに失敗しました。
+もう一度読み込みますか?
+はい
+いいえ
+セーブデータを消去しますか?
+はい
+いいえ
+アクティブユーザーを変更すると、保存されていない
+プレイ状況は失われます。
+ 
+アクティブユーザーを変更しますか?
+はい
+いいえ
+このコンテンツはインストールが完了するまで
+開始することができません。
+インストールが完了するまでお待ちください。
+ロードしない
+このコンテンツはインストールが完了するまで
+開始することができません。
+インストールが完了するまでお待ちください。
+ロードしない
+このコンテンツはインストールが完了するまで
+開始することができません。
+インストールが完了するまでお待ちください。
+ロードしない
+All unsaved game progress will be lost.
+Exit Game?
+OK
+Cancel
+All unsaved game progress will be lost.
+Exit Game?
+OK
+Cancel
+All unsaved game progress will be lost.
+Return to Title Menu?
+OK
+Cancel
+All unsaved game progress will be lost.
+Return to Title Menu?
+OK
+Cancel
+Return to Title Menu?
+OK
+Cancel
+シーン回想を中断しますか?
+はい
+いいえ
+Return to Default Settings?
+OK
+Cancel
+Return to Default Settings.
+Load this Data?
+OK
+Cancel
+このセーブファイルはインストールが完了するまで
+開始することができません。
+インストールが完了するまでお待ちください。
+ロードしない
+Load this Data?
+All unsaved game progress will be lost.
+OK
+Cancel
+All Save Data are locked.
+If all save data will be locked, you can not select the QUICK SAVE.
+If you would like to select QUICK SAVE.
+Please unlock the unnecessary Save Data.
+All Save Data are locked.
+If all save data will be locked, you can not select the QUICK SAVE.
+If you would like to select QUICK SAVE.
+Please unlock the unnecessary Save Data.
+Save Data already exists.
+If you choose to overwrite this data, the previous save will be lost.
+Overwrite the Save Data?
+Overwrite
+Cancel
+This Save Data is locked.
+If you would like to overwrite the Save Data, please unlock it.
+There exists the corrupted Save Data.
+If overwrite, it will be lost the previous Save Data.
+Overwrite to the corrupted Save Data?
+Overwrite
+Cancel
+Saving data.
+Please do not turn off the system.
+Saving System Data.
+Please do not turn off the system.
+Checking System Data.
+Loading System Data.
+System Data could not found.
+System Data are created.
+Creating System Data.
+Please do not turn off the system.
+System Data is corrupted.
+System Data are repaired.
+Repairing System Data.
+Please do not turn off the system.
+This System Data is another user's data.
+Please exit the game and delete System Data.
+System Data is corrupted.
+It failed to load System Data.
+It failed to load System Data.
+Please exit the game and retry.
+It failed to create System Data.
+Please exit the game and retry.
