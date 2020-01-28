@@ -3,14 +3,14 @@
 サインアウトされました。タイトル画面に戻ります。
 ゲームパッドが外されました。ゲームパッドを接続してください。
 ゲームを遊ぶためにはサインインしてください。
-Broken Data
-No data
-Play Time:
-Save Time:
+Zepsute dane
+Brak danych
+Czas Gry:
+Czas Zapisu:
 /
 :
-No .
-Total Play Time
+Nie .
+Pełny Czas Gry
 m
 s
 h
@@ -22,8 +22,8 @@ h
 Reached Ending
 Acquired TIPS
 Album Achievement Rate
-New
-Unread
+Nowy
+Nieprzeczytany
 
 
 
