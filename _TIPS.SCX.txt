@@ -36,22 +36,22 @@ Chuunibyou
 Akashic Records
 Akashic Records
 akashic records
-The database in which every event in the whole universe from past to future is recorded. The memory of humanity’s collective consciousness. Not in vinyl.
+Baza danych, w której zapisywane jest każde zdarzenie w całym wszechświecie od przeszłości do przyszłości. Pamięć zbiorowa świadomości ludzkości. Nie jest winylowa.
 Other
 Acetylcholine
 Acetylcholine
 acetylcholine
-A neurotransmitter. Acetylcholine levels in the hippocampus increase when learning or remembering.
+Neuroprzekaźnik. Poziom Acetylocholiny w hippokampie wzrasta podczas nauki lub zapamiętywania.
 Other
 Ayamein
 Ayamein
 ayamein
-(Fictional) Ayamein Women’s Academy. A private school for girls in the Kudanshita neighborhood of Tokyo. An academic powerhouse, Ayamein is a popular destination for foreign exchange students.
+(Fikcyjna) Damska Akademia Ayamein. Prywatna szkoła dla dziewczyn w dzielnicy Kudanshita w Tokio. Akademia Ayamein jest popularnym miejscem dla uczniów z wymiany zagranicznej.
 Other
 Alpaca
 Alpaca
 alpaca
-A mammal. Related to the camel. Average Weight: 50-55kg Average Length: Around 2m Habitat: Peru, Bolivia, Chile. Recently, alpacas can even be found in America and New Zealand. Unlike camels, alpacas do not have humps. Their bodies are covered with fluffy fur. Due to their strangely long necks and charming faces, they have some popularity as an ugly-yet-cute (uglycute) animal.
+Ssak. Spokrewniony z wielbłądem. Średnia waga: ok50-55 kg. Średnia wysokość: Około 2m. Siedliska: Peru, Boliwia, Chile. Ostatnio alpaki można nawet spotkać  w Ameryce i Nowej Zelandii. W przeciwieństwie do wielbłądów, alpaki nie mają humpsów. Ich ciała pokryte są puszystym futrem. Ze względu na ich dziwnie długą szyję i urokliwe twarze cieszą się pewną popularnością jako brzydko-piękne (uglycute) zwierzę.
 Internet
 Anchor
 Anchor
@@ -76,7 +76,7 @@ Internet
 Wizard
 Wizard
 wizard
-An insanely skilled hacker.
+Szalenie zdolny haker.
 Science
 Urashima Effect
 Urashima Effect
@@ -858,7 +858,7 @@ Internet
 Wiki
 Wiki
 wiki
-An online system for the creation and compilation of hypertext documents on a web server.
+System online do tworzenia i kompilacji dokumentów hipertekstowych na serwerze WWW.
 Internet
 World Wide Web
 World Wide Web
@@ -889,7 +889,7 @@ Otaku
 2D Girl
 2D Girl
 2d girl
-A female character in an anime, game, or manga.
+Żęńśka postać w anime, grze lub mandze.
 Chuunibyou
 Committee of 300
 Committee of 300
@@ -988,7 +988,7 @@ Otaku
 What a monster!
 osoroshii ko
 what a monster!
-A quotation from a classic manga about glass masks. Used to express amazement at someone’s incredible skills.
+Cytat z klasycznej mangi o szklanych maskach. Używany do wyrażenia zdumienia czyimiś niesamowitymi umiejętnościami.
 Otaku
 Moe
 Moe
@@ -998,7 +998,7 @@ Otaku
 Eroge
 Eroge
 eroge
-Short for “erotic game.” Games with erotic content.
+Skrót od "gry erotycznej". Gra z treściami erotycznymi.
 Chuunibyou
 Esper
 Esper
