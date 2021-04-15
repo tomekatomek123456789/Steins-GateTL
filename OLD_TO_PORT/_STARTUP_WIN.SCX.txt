@@ -1,0 +1,109 @@
+Cały niezapisany postęp gry zostanie stracony.
+Wyjść z gry?
+OK
+Anuluj
+セーブデータの確認中です。
+セーブデータの読み込みに失敗しました。
+もう一度読み込みますか?
+はい
+いいえ
+セーブデータを消去しますか?
+はい
+いいえ
+アクティブユーザーを変更すると、保存されていない
+プレイ状況は失われます。
+ 
+アクティブユーザーを変更しますか?
+はい
+いいえ
+このコンテンツはインストールが完了するまで
+開始することができません。
+インストールが完了するまでお待ちください。
+ロードしない
+このコンテンツはインストールが完了するまで
+開始することができません。
+インストールが完了するまでお待ちください。
+ロードしない
+このコンテンツはインストールが完了するまで
+開始することができません。
+インストールが完了するまでお待ちください。
+ロードしない
+Cały niezapisany postęp gry zostanie stracony.
+Wyjść z gry?
+OK
+Anuluj
+Cały niezapisany postęp gry zostanie stracony.
+Wyjść z gry?
+OK
+Anuluj
+Cały niezapisany postęp gry zostanie stracony.
+Powrócić do Menu Głównego?
+OK
+Anuluj
+Cały niezapisany postęp gry zostanie stracony.
+Powrócić do Menu Głównego?
+OK
+Anuluj
+Powrócić do Menu Głównego?
+OK
+Anuluj
+シーン回想を中断しますか?
+はい
+いいえ
+Return to Default Settings?
+OK
+Anuluj
+Return to Default Settings.
+Load this Data?
+OK
+Anuluj
+このセーブファイルはインストールが完了するまで
+開始することができません。
+インストールが完了するまでお待ちください。
+ロードしない
+Załadować ten Zapis?
+Wszystkie niezapisane postępy zostaną utracone.
+OK
+Anuluj
+Wszystie zapisy są zablokowane.
+Jeżeli wszystkie zapisy są zablokowane, nie możesz wybrać QUICK SAVE.
+If you would like to select QUICK SAVE.
+Please unlock the unnecessary Save Data.
+All Save Data are locked.
+Jeżeli wszystkie zapisy są zablokowane, nie możesz wybrać QUICK SAVE.
+If you would like to select QUICK SAVE.
+Please unlock the unnecessary Save Data.
+Save Data already exists.
+Jeżeli wybierzesz nadpisanie zapisu, wszystkie wcześniejze dane zostaną utracone.
+Nadpisać zapis gry?
+Nadpisz
+Anuluj
+Ten zapis gry jest zablokowany.
+Jeżeli chcesz nadpisać ten zapis gry, musisz go odblokować.
+There exists the corrupted Save Data.
+Jeżeli nadpiszesz, wcześniejszy zapis gry zostanie utracony.
+Nadpisać zepsuty zapis gry?
+Nadpisz
+Anuluj
+Zapisywanie.
+Proszę nie wyłaczaj gry.
+Zapisywanie danych gry.
+Proszę nie wyłaczaj gry.
+Sprawdzanie danych gry.
+Szukanie danych gry.
+Nie znaleziono danych gry.
+Dane gry zostały utworzone.
+Tworzenie danych gry.
+Proszę nie wyłaczaj gry.
+System Data is corrupted.
+System Data are repaired.
+Repairing System Data.
+Please do not turn off the system.
+This System Data is another user's data.
+Please exit the game and delete System Data.
+System Data is corrupted.
+Nie udało się załadować danych gry.
+Nie udało się załadować danych gry.
+Proszę uruchom ponownie grę.
+Nie udało się stworzyć danych gry.
+Proszę uruchom ponownie grę.

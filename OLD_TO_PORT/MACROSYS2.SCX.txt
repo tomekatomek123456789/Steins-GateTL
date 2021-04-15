@@ -1,0 +1,8 @@
+Naciśnij przycisk [color index="840000"]“Phone triggers”[color index="800000"] aby wejść na telefon,
+i zadzwoń do [color index="820000"]“PhoneWave (name subject to change)”[color index="800000"].
+[color index="800000"]Pozwala to na weryfikacje ustawień kontroli z “CONFIG” w
+menu systemowym.
+Naciśnij przycisk [color index="A0280000"]“Phone triggers”[color index="800000"] aby wejść na telefon,
+i zadzwoń do [color index="820000"]“PhoneWave (name subject to change)”[color index="800000"].
+[color index="800000"]Pozwala to na weryfikacje ustawień kontroli z “CONFIG” w
+menu systemowym.
